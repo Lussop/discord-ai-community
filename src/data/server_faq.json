@@ -1,0 +1,23 @@
+{
+  "serverName": "Your Gaming Community",
+  "invite": "https://discord.gg/your-invite",
+  "reglas": [
+    "Respeto mutuo y convivencia sana.",
+    "Prohibido el spam, flooding o autopromoción en canales públicos.",
+    "No compartir datos personales ni contenido malicioso o ilegal."
+  ],
+  "faq": [
+    {
+      "tema": "Minecraft / Juegos",
+      "respuesta": "Para soporte o dudas generales de instalación o servidores, consulta con nuestro equipo en los canales designados."
+    },
+    {
+      "tema": "Roles y Verificación",
+      "respuesta": "El rol de Verificado se otorga al unirse y completar el onboarding de Discord. Los roles VIP y de Creador se gestionan con los moderadores."
+    },
+    {
+      "tema": "Staff y Moderación",
+      "respuesta": "Si necesitas contactar a un moderador humano en tu ticket, pulsa el botón 'Llamar al Staff' y se unirá un miembro del equipo."
+    }
+  ]
+}
